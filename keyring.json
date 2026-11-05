@@ -1,0 +1,22 @@
+{
+  "neuron": "keyring",
+  "v": 1,
+  "createdAt": "2026-11-05T07:55:07.673Z",
+  "kdf": {
+    "name": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 1000000,
+    "salt": "YpiEO4c88f-pRO9EhQvI3w"
+  },
+  "wraps": {
+    "passphrase": {
+      "iv": "HVmmCIy-74aG0L4w",
+      "ct": "SQ0GF-2h-NaS8RXXxaS8_SoHSihNHTwd_fH_VaCUv11INkNq6GnF5VqLZrID6i4V"
+    },
+    "recovery": {
+      "salt": "1t-JmltYc2CQeDeo01gNSQ",
+      "iv": "aEmiqbhB41vaJgma",
+      "ct": "fzimijxy5yoP9ycbCRTZJPx1Sdk_ylkk3kGZYev56H0B5hmTLO172mLd7zBdVYhb"
+    }
+  }
+}
